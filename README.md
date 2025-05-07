@@ -7,7 +7,7 @@ Algumas tecnologias que eu trabalho:
 
 Java, Ecosistema Spring, JavaScript, TypeScript, HTML, CSS, Bootstrap, Angular, Angular Material, Python.
 
-Banco de Dados: Oracle, Microsoft SQL Server, MongoDB.
+Banco de Dados: Oracle, Microsoft SQL Server, Postgresql, MongoDB.
 
 Cloud: Microsoft Azure.
 
